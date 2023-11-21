@@ -1,19 +1,39 @@
 body {
-	background: #cccccc
+    
+}
+
+#banner {
+    width: 100%;
+}
+
+.principal {
+      background: #CCCCCC
 }
 
 h1 {
-	 text-align: center
+    text-align: center
 }
 
-p { 
-     text-align:center; 
+p {
+    text-align: center;
 }
 
 #missao {
-	 font-size: 20px
+    font-size: 20px
 }
 
 em strong {
-	 color: red;
+    color: #FF0000;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #FFFFFF;
+}
+
+h2 {
+    text-align: center;
 }
