@@ -28,9 +28,9 @@ nav a {
     text-decoration: none;
 }
 
-nav a:houver {
-   color:  #C7C819;
-   text-decoration: underline;
+nav a:hover {
+    color: #C78C19;
+    text-decoration: underline;
 }
 
 .produtos {
