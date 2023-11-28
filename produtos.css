@@ -28,6 +28,11 @@ nav a {
     text-decoration: none;
 }
 
+nav a: houver {
+    color: #C78C19;
+    text-decoration: underline;
+}
+
 .produtos {
     width: 940px;
     margin: 0 auto;
@@ -45,6 +50,7 @@ nav a {
     border: 2px solid #000000;
     border-radius: 10px;
 }
+
 
 .produtos h2 {
     font-size: 30px;
